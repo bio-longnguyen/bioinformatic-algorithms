@@ -1,6 +1,9 @@
 # bioinformatic-algorithms
 My ways to solve bioinformatic algorithm's exercises
 
+# course
+https://www.coursera.org/learn/bioinformatics
+
 # language
 Python language
 
